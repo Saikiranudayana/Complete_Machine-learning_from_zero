@@ -23,7 +23,7 @@ Whether you're learning Machine Learning from scratch or revising before intervi
 
 # 📚 Repository Structure
 
-## 1️⃣ Machine Learning Fundamentals
+## 1️⃣ Machine Learning Fundamentals (Supervised learning)
 
 - [Linear Regression](https://github.com/Saikiranudayana/Telugu-machine-learning-playlist/tree/main/Linear%20regression)
 - [Logistic Regression](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/Logistic%20Regression)
@@ -166,9 +166,9 @@ Feel free to open a Pull Request.
 
  ([**Sai Kiran Udayana**](https://www.linkedin.com/in/saikiranudayana/))
 
-Machine Learning | Data Science | AI Educator
+Teaching Associate |Data Analytics |  Data Science | AI Educator
 
-Creating free educational content to make Machine Learning simple and accessible for everyone.
+Creating free Data science content to make Machine Learning simple and accessible for everyone.
 
 ---
 
