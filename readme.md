@@ -26,39 +26,39 @@ Whether you're learning Machine Learning from scratch or revising before intervi
 ## 1️⃣ Machine Learning Fundamentals
 
 - [Linear Regression](https://github.com/Saikiranudayana/Telugu-machine-learning-playlist/tree/main/Linear%20regression)
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Trees
-- Naive Bayes
-- Support Vector Machine (SVM)
+- [Logistic Regression](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/Logistic%20Regression)
+- [K-Nearest Neighbors (KNN)](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/K-Nearest%20Neighbors%20(KNN))
+- [Decision Trees](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/Decision%20Tree)
+- [Naive Bayes](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/Naive%20Bayes)
+- [Support Vector Machine (SVM)](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/Support%20Vector%20Machine%20(SVM))
 
 ---
 
 ## 2️⃣ Ensemble Learning
 
-- Bagging
-- Boosting
-- Stacking
-- Random Forest
-- AdaBoost
-- Gradient Boosting
-- XGBoost (Extreme Gradient Boosting)
+- [Bagging](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/Ensemble%20Learning/Bagging.ipynb)
+- [Boosting](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/Ensemble%20Learning/Boosting.ipynb)
+- [Stacking](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/Ensemble%20Learning/stacking.ipynb)
+- [Random Forest](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/Random%20forest)
+- [AdaBoost](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/AdaBoost/ADABoost_classifier.ipynb)
+- [Gradient Boosting](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/Gradient%20Boosting)
+- [XGBoost (Extreme Gradient Boosting)](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/XGBoost)
 
 ---
 
 ## 3️⃣ Unsupervised Learning
 
-- K-Means Clustering
-- Hierarchical Clustering
-- DBSCAN Clustering
-- Anomaly Detection
+- [K-Means Clustering](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/tree/main/k-means%20clustering)
+- [Hierarchical Clustering](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/hierarchial%20clustering/hierarchial%20clusterinng.ipynb)
+- [DBSCAN Clustering](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/DBSCAN%20clustering/DBSCAN.ipynb)
+- [Anomaly Detection](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/Anomaly%20detetection/anomoly%2Bdetetction.ipynb)
 
 ---
 
 ## 4️⃣ Dimensionality Reduction
 
-- Principal Component Analysis (PCA)
-- UMAP
+- [Principal Component Analysis (PCA)](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/Principal%20Component%20Analysis%20(PCA)/pca.ipynb)
+- [UMAP](https://github.com/Saikiranudayana/Complete_Machine-learning_from_zero/blob/main/UMap/umap.ipynb)
 
 ---
 
@@ -164,7 +164,7 @@ Feel free to open a Pull Request.
 
 # 👨‍💻 Author
 
-**Sai Kiran Udayana**
+ ([**Sai Kiran Udayana**](https://www.linkedin.com/in/saikiranudayana/))
 
 Machine Learning | Data Science | AI Educator
 
