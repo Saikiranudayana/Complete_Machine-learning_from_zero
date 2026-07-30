@@ -1,2 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.env
+venv/
+.env*
+.vscode/
 teluguml
-.vscode
