@@ -25,7 +25,7 @@ Whether you're learning Machine Learning from scratch or revising before intervi
 
 ## 1️⃣ Machine Learning Fundamentals
 
-- Linear Regression
+- [Linear Regression](https://github.com/Saikiranudayana/Telugu-machine-learning-playlist/tree/main/Linear%20regression)
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Decision Trees
@@ -130,6 +130,8 @@ Anomaly Detection
 
 The complete explanations for these topics are available on my YouTube channel.
 
+Here is the link : [yt Playlist](https://youtube.com/playlist?list=PLD9a-K7819bA&si=5jfkyi_oDbpwkosM)
+
 The repository is updated regularly with new implementations and tutorials.
 
 ---
@@ -153,29 +155,12 @@ Contributions are always welcome!
 
 If you find:
 
-- Bugs
-- Better implementations
-- Performance improvements
 - Documentation improvements
 
 Feel free to open a Pull Request.
 
 ---
 
-# 📌 Upcoming Topics
-
-- Feature Engineering
-- Cross Validation
-- Hyperparameter Tuning
-- Model Evaluation Metrics
-- Pipeline
-- GridSearchCV
-- RandomizedSearchCV
-- Feature Selection
-- Time Series Machine Learning
-- Recommendation Systems
-
----
 
 # 👨‍💻 Author
 
