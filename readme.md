@@ -1,4 +1,4 @@
-# 🚀 Machine Learning with Python – Complete Repository
+# 🚀 Complete Machine learning from Zero – Complete Repository with code executions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
